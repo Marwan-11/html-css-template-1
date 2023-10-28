@@ -4,9 +4,9 @@
 
 ## Links
 
-- [Repo]([https://github.com/Rohit19060/<project-name> "<project-name> Repo"](https://github.com/Marwan-11/html-css-template-1)https://github.com/Marwan-11/html-css-template-1)
+- [Repo]( https://github.com/Marwan-11/html-css-template-1.git)
 
-- [Live]([<Homepage url> "Live View"](https://marwan-11.github.io/html-css-template-1/)https://marwan-11.github.io/html-css-template-1/)
+- [Live]( https://marwan-11.github.io/html-css-template-1/)
 
 ## Screenshots
 
