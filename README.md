@@ -22,7 +22,7 @@
 
 **Marwan Yahia**
 
-- [Profile]((https://github.com/Marwan-11) "Marwan Yahia")
+- [Profile](https://github.com/Marwan-11 "Marwan Yahia")
 - [Email](mailto:marwanyahia151@gmail.com?subject=Hi "Hi!")
 
 
