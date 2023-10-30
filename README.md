@@ -1,6 +1,6 @@
 <h1 align="center">Leon</h1>
 
-<p align="center">Leon is an Html + Css project</p>
+<p align="center">Leon is a stunning and informative website using HTML and CSS. This project is an opportunity to showcase HTML and CSS skills while demonstrating proficiency in web development.</p>
 
 ## Links
 
